@@ -8,5 +8,5 @@
 
 * 📫 How to reach me: daniel.dubinko@gmail.com
 * ⚡ Fun fact: China has only one time zone
-* 🌱 I’m currently learning Python and Arduino IDE
+* 🌱 I’m currently expanding my knowledge in automation and general robotics
 * ⚙️ I’m looking to collaborate on projects
