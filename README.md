@@ -4,9 +4,9 @@
 
 😎I am an enthusiastic team leader who exercises my affable atmosphere and collaborative skills to organize tasks well with others in order to achieve common goals. 
 
-🤖As a mechatronics engineer, I am driven, tenacious and passionate about all aspects of engineering design and development. I enjoy project management, product development, automation and problem-solving. I am always keen to learn new skills and understand all aspects of an engineering system, including mechanical, electrical and software. I have experince with Python and Arduino 
+🤖As a mechatronics engineering student, I am driven, tenacious and passionate about all aspects of engineering design and development. I enjoy project management, product development, automation and problem-solving. I am always keen to learn new skills and understand all aspects of an engineering system, including mechanical, electrical and software. I have experince with various programming languages: Python, C++, C#, Assembley, and MATLAB. I have experience with Ubuntu and Windows.
 
-* 📫 How to reach me: daniel.dubinko@gmail.com
-* ⚡ Fun fact: China has only one time zone
+* 📫 How to reach me: daniel.dubinko@icloud.com
+* ⚡ Fun fact: I love random facts 
 * 🌱 I’m currently expanding my knowledge in automation and general robotics
 * ⚙️ I’m looking to collaborate on projects
