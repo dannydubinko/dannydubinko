@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-I am Daniel Dubinko, a Mechatronics Engineering student at Queen's University.
+I am Daniel Dubinko, a Robotics Engineering Graduate from Queen's University.
 
-I am always keen to learn new skills and understand all aspects of an engineering system, including mechanical, electrical and software. I have experince with various programming languages: Python, C++, C#, MATLAB and some Java.
+Currently working toward a better understanding of robotics path planning and control software
 
 * 📫 How to reach me: daniel.dubinko@icloud.com
-* ⚡ Fun fact: I love random facts 
-* 🌱 I’m currently expanding my knowledge in automation and general robotics
+* ⚡ Fun fact: They gave a blind person a set of 3d shapes to hold and touch, then gave them vision and they could not tell which one is which by looking at them
 * ⚙️ I’m looking to collaborate on projects
