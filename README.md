@@ -2,11 +2,9 @@
 
 ### About Me
 
-- Mechatronics and Robotics Engineering Student at **Queen's University**
-- Passionate about autonomous systems, robotics, and computer vision
-- Currently learning more about robotics path planning and controls software
+- Mechatronics & Robotics Engineer focused on autonomous systems, robotics software, and motion planning.
 - Also interested in open-source projects like OpenFlight
-- Check out my portfolio: [danieldubinko.github.io](https://danieldubinko.github.io)
+- Check out my portfolio: [dannydubinko.github.io](https://dannydubinko.github.io)
 
 ---
 
